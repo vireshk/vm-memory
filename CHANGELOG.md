@@ -1,5 +1,12 @@
 # Changelog
 
+## [Unreleased]
+
+### Deprecated
+
+- [[#244]](https://github.com/rust-vmm/vm-memory/pull/241) Deprecate volatile
+  memory's `as_ptr()` interfaces.
+
 ## [v0.12.0]
 
 ### Added
